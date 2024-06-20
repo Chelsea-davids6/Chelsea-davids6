@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chelsea davids
-- 👀 I’m interested in full stack development and Game development
-- 🌱 I’m currently learning java
+- 👀 I’m interested in full stack and Game development
+- 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me gmail- chelseacarla563@gmail.com
 
